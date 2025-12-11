@@ -1,34 +1,78 @@
-# 📘 Student Marks Analyzer
+## **📌 1. Project Description**
 
-A simple Python project that analyzes student marks and generates statistics such as:
-- Highest marks  
-- Lowest marks  
-- Average marks  
-- Overall grade  
+```
+This is a simple Python program that allows the user (student) to enter marks for different subjects. The program calculates:
 
-This is a beginner-friendly program written in **Python** to demonstrate logic building, functions, and simple data analysis.
+- Total marks
+- Average marks
+- Percentage
+- Grade based on performance
 
----
-
-## 🚀 Features
-
-- Takes input for any number of subjects  
-- Calculates:
-  - Highest score  
-  - Lowest score  
-  - Average score  
-  - Grade based on average  
-- Clean and easy-to-understand code  
+It is a beginner-friendly project for understanding:
+- Input handling in Python
+- Basic arithmetic operations
+- Conditional statements
+- Clean console output formatting
+```
 
 ---
 
-## 🧠 Tech Used
+## **📌 2. Features**
 
-- **Python 3**
-- Basic functions
-- Input/Output handling
+```
+- Takes marks for any number of subjects
+- Calculates total and percentage
+- Assigns a grade based on percentage
+- Input validation included (no negative marks)
+- Beginner-friendly and easy to modify
+```
 
 ---
 
-## 📂 Project Structure
+## **📌 3. How to Run**
+
+```
+1. Install Python (if not installed)
+2. Run the file:
+   python student_marks.py
+3. Follow the terminal instructions
+```
+
+---
+
+## **📌 4. Sample Output**
+
+```
+Enter number of subjects: 5
+Enter marks for subject 1: 89
+Enter marks for subject 2: 92
+Enter marks for subject 3: 78
+Enter marks for subject 4: 85
+Enter marks for subject 5: 90
+
+Total Marks: 434
+Average Marks: 86.80
+Percentage: 86.80%
+Grade: A
+```
+
+---
+
+## **📌 5. Tech Stack**
+
+```
+- Python 3
+---
+---
+
+
+## **📌 6. Future Enhancements**
+
+```
+- Add graphical UI
+- Export results as PDF
+- Create a student marks dashboard
+```
+
+
 
