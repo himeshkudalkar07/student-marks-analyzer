@@ -62,17 +62,14 @@ Grade: A
 
 ```
 - Python 3
----
----
-
-
-## **📌 6. Future Enhancements**
-
 ```
+
+📌 6. Future Enhancements
+diff
+Copy code
 - Add graphical UI
 - Export results as PDF
 - Create a student marks dashboard
-```
 
 
 
